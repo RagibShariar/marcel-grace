@@ -5,7 +5,7 @@ import Button from "./Button";
 
 export default function Navbar() {
   return (
-    <div className="navbar bg-[#F5F7FA] shadow-sm px-4 md:px-8 lg:px-12">
+    <div className="navbar bg-[#F5F7FA] shadow-sm px-4 md:px-8 lg:px-12 -mt-6">
       <div className="navbar-start w-auto md:w-7xl mx-auto">
         <div className="dropdown">
           <div tabIndex={0} role="button" className="btn btn-ghost lg:hidden">
@@ -57,10 +57,10 @@ export default function Navbar() {
               className=""
               src={logo}
               alt="logo"
-              width={100}
+              width={150}
             />
           </div>
-          <p className=" -ml-6 leading-[20px] w-28 text-end font-bold">
+          <p className=" -ml-10 leading-[20px] w-28 text-end font-bold">
             Marcel <span className="text-[#800080] ">Grace</span> Infotech
           </p>
         </Link>
