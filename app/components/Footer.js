@@ -4,8 +4,8 @@ export default function Footer() {
   return (
     <footer className="footer p-6 sm:p-8 md:p-10 lg:p-20 bg-[#E3EFFE] text-[#06387A] grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 md:gap-8">
       <aside className="mb-6 md:mb-0">
-        <Image src={logo} alt="logo" width={100} height={100} />
-        <p className="text-xl sm:text-xxl font-bold -mt-6">Marcel Grace</p>
+        <Image src={logo} alt="logo" width={150} height={150} />
+        <p className="text-xl sm:text-xxl font-bold -mt-12">Marcel Grace Infotech</p>
         
       </aside>
       <nav className="mb-6 md:mb-0">
