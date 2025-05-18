@@ -49,7 +49,7 @@ export default function Navbar() {
           </ul>
         </div>
         <Link className="flex items-center  text-sm sm:text-base" href={"/"}>
-          <div className="">
+          <div className="-ml-10 md:ml-0">
             <Image className="" src={logo} alt="logo" width={150} />
           </div>
           <p className=" -ml-10 leading-[20px] w-28 text-end font-bold">
