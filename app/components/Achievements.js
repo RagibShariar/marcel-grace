@@ -11,7 +11,7 @@ export default function Achievements() {
         <div className="text-center lg:text-left w-full lg:w-2/5">
           <h2 className="text-2xl sm:text-3xl lg:text-4xl font-semibold leading-tight lg:leading-[44px] text-[#4D4D4D]">
             Helping a local{" "}
-            <span className="text-[#4CAF4F] block">
+            <span className="text-[#06387A] block">
               business reinvent itself
             </span>
           </h2>

@@ -8,7 +8,7 @@ export default function CommunityCard() {
     <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 px-4 md:px-8 lg:px-12 mt-8 mb-8">
       {/* card 1 */}
       <div className="card bg-base-100 w-full h-full shadow-lg rounded-md mx-auto max-w-[299px]">
-        <div className="mx-auto mt-8 w-[50px] h-[50px] bg-[#E8F5E9] rounded-tl-[18px] rounded-tr-[5px] rounded-br-[18px] rounded-bl-[5px]">
+        <div className="mx-auto mt-8 w-[50px] h-[50px] bg-[#E3EFFE] rounded-tl-[18px] rounded-tr-[5px] rounded-br-[18px] rounded-bl-[5px]">
           <Image
             className="size-[50px] -ml-4 -mt-2"
             src={community1}
@@ -27,7 +27,7 @@ export default function CommunityCard() {
       </div>
       {/* card 2 */}
       <div className="card bg-base-100 w-full h-full shadow-lg rounded-md mx-auto max-w-[299px]">
-        <div className="mx-auto mt-8 w-[50px] h-[50px] bg-[#E8F5E9] rounded-tl-[18px] rounded-tr-[5px] rounded-br-[18px] rounded-bl-[5px]">
+        <div className="mx-auto mt-8 w-[50px] h-[50px] bg-[#E3EFFE] rounded-tl-[18px] rounded-tr-[5px] rounded-br-[18px] rounded-bl-[5px]">
           <Image
             className="size-[50px] -ml-4 -mt-2"
             src={community2}
@@ -46,7 +46,7 @@ export default function CommunityCard() {
       </div>
       {/* card 3 */}
       <div className="card bg-base-100 w-full h-full shadow-lg rounded-md mx-auto max-w-[299px] sm:col-span-2 lg:col-span-1">
-        <div className="mx-auto mt-8 w-[50px] h-[50px] bg-[#E8F5E9] rounded-tl-[18px] rounded-tr-[5px] rounded-br-[18px] rounded-bl-[5px]">
+        <div className="mx-auto mt-8 w-[50px] h-[50px] bg-[#E3EFFE] rounded-tl-[18px] rounded-tr-[5px] rounded-br-[18px] rounded-bl-[5px]">
           <Image
             className="size-[50px] -ml-4 -mt-2"
             src={community3}

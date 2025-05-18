@@ -1,6 +1,7 @@
 import Achievements from "./components/Achievements";
 import Blog from "./components/Blog";
 import Calender from "./components/Calender";
+import CallToAction from "./components/CallToAction";
 import Community from "./components/Community";
 import Experience from "./components/Experience";
 import Footer from "./components/Footer";
@@ -18,7 +19,8 @@ export default function Home() {
       <Experience />
       <Achievements/>
       <Calender />
-      <Blog/>
+      <Blog />
+      <CallToAction/>
       <Footer />
     </>
   );

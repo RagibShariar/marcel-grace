@@ -16,7 +16,7 @@ export default function SingleBlog() {
           </p>
           <a
             href="#"
-            className="text-[#4CAF4F] font-semibold text-base sm:text-lg leading-tight"
+            className="text-[#06387A] font-semibold text-base sm:text-lg leading-tight"
           >
             Read More
           </a>

@@ -1,4 +1,4 @@
-import logo from "@/public/assets/logo.png";
+import logo from "@/public/assets/logo.svg";
 import Image from "next/image";
 import Link from "next/link";
 import Button from "./Button";
@@ -49,17 +49,20 @@ export default function Navbar() {
           </ul>
         </div>
         <Link
-          className="flex items-center gap-2 text-sm sm:text-base"
+          className="flex items-center  text-sm sm:text-base"
           href={"/"}
         >
-          <div className="w-10 h-10 sm:w-16 sm:h-16">
+          <div className="">
             <Image
-              className="w-full h-full object-contain"
+              className=""
               src={logo}
               alt="logo"
+              width={100}
             />
           </div>
-          <span className="font-medium">Marcel Grace</span>
+          <p className=" -ml-6 leading-[20px] w-28 text-end font-bold">
+            Marcel <span className="text-[#800080] ">Grace</span> Infotech
+          </p>
         </Link>
       </div>
       <div className="navbar-center hidden lg:flex">
@@ -85,7 +88,7 @@ export default function Navbar() {
         </ul>
       </div>
       <div className="navbar-end">
-        <a className="text-[#4CAF4F] mr-2 sm:mr-4 font-medium text-sm sm:text-base">
+        <a className="text-[#06387A] mr-2 sm:mr-4 font-medium text-sm sm:text-base">
           Login
         </a>
         <Button>Sign up</Button>

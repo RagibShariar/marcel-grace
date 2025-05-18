@@ -10,9 +10,9 @@ export default function Hero() {
           <Image src={heroImg} alt="Hero image" className="w-full h-auto" />
         </div>
         <div className="w-full lg:max-w-[657px] text-center lg:text-left">
-          <h1 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-semibold text-[#4D4D4D]">
+          <h1 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-semibold text-gray-900">
             Lessons and insights{" "}
-            <span className="text-[#4CAF4F]">from 8 years</span>
+            <span className="text-[#06387A]">from 8 years</span>
           </h1>
           <p className="py-4 md:py-6 text-[#717171] text-sm sm:text-base">
             Where to grow your business as a photographer: site or social media?
