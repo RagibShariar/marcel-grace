@@ -48,17 +48,9 @@ export default function Navbar() {
             </li>
           </ul>
         </div>
-        <Link
-          className="flex items-center  text-sm sm:text-base"
-          href={"/"}
-        >
+        <Link className="flex items-center  text-sm sm:text-base" href={"/"}>
           <div className="">
-            <Image
-              className=""
-              src={logo}
-              alt="logo"
-              width={150}
-            />
+            <Image className="" src={logo} alt="logo" width={150} />
           </div>
           <p className=" -ml-10 leading-[20px] w-28 text-end font-bold">
             Marcel <span className="text-[#800080] ">Grace</span> Infotech
