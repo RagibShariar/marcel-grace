@@ -3,7 +3,8 @@ import SectionHeader from "./SectionHeader";
 
 export default function Blog() {
   return (
-    <div className="max-w-6xl mx-auto px-4 md:px-8 lg:px-12">
+    <div className=" bg-[#DCEBFF]">
+      <div className="max-w-6xl mx-auto px-4 md:px-8 lg:px-12">
       <SectionHeader
         title="Marcel Grace Infotech: Crafting solutions for success"
         subtitle="Engage decision-makers with Marcel Grace Infotech's modern, client-centric software solutions. Experience trust and innovation with clear communication. Elevate your business with our agile team.​"
@@ -14,6 +15,7 @@ export default function Blog() {
         <SingleBlog />
         <SingleBlog />
       </div>
+    </div>
     </div>
   );
 }

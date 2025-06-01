@@ -4,7 +4,7 @@ import Button from "./Button";
 
 export default function Calender() {
   return (
-    <div className="hero bg-base-200 min-h-screen px-4 md:px-8 lg:px-12 py-8 md:py-12">
+    <div className="hero bg-[#DCEBFF] min-h-screen px-4 md:px-8 lg:px-12 py-8 md:py-12">
       <div className="hero-content flex-col lg:flex-row gap-8 lg:gap-12">
         <div className="w-full max-w-sm md:max-w-md lg:max-w-lg">
           <Image src={img1} alt="img1" className="w-full h-auto" />

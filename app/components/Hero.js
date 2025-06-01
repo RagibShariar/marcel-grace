@@ -4,7 +4,7 @@ import Button from "./Button";
 
 export default function Hero() {
   return (
-    <div className="hero min-h-screen bg-[#F5F7FA] px-4 md:px-8 lg:px-12">
+    <div className="hero min-h-screen px-4 md:px-8 lg:px-12 bg-[#DCEBFF]">
       <div className="hero-content flex-col lg:flex-row-reverse gap-8 lg:gap-12">
         <div className="w-full max-w-[300px] sm:max-w-sm md:max-w-md">
           <Image src={heroImg} alt="Hero image" className="w-full h-auto" />
@@ -18,7 +18,7 @@ export default function Hero() {
             We partner with startups and midsize companies to bring their ideas to life — from building MVPs to scaling successful digital products. Wherever your vision leads, Marcel Grace Infotech is here to support your journey with reliable, scalable, and expert-driven development solutions.
           </p>
 
-          <Button>Register</Button>
+          <Button>Learn More</Button>
         </div>
       </div>
     </div>
