@@ -7,7 +7,7 @@ import { GoArrowRight } from "react-icons/go";
 
 export default function Navbar() {
   return (
-    <div className="navbar bg-[#ABD0FF] shadow-sm px-4 md:px-8 lg:px-12 -mt-6">
+    <div className="navbar bg-[#DCEBFF] shadow-sm px-4 md:px-8 lg:px-12 -mt-6">
       <div className="navbar-start w-auto md:w-7xl mx-auto">
         <div className="dropdown">
           <div tabIndex={0} role="button" className="btn btn-ghost lg:hidden">
