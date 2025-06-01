@@ -14,7 +14,7 @@ export default function Experience() {
             Partner with us for future-focused tech excellence.
           </h1>
           <p className="py-4 sm:py-6 text-sm md:text-[14px] leading-tight md:leading-[20px] text-[#717171]">
-            Experience innovative solutions with Marcel Grace Infotech, experts in robust software development. Modern, client-focused, and keen on creating scalable solutions, we redefine digital transformations. Let's build your vision together!
+            Experience innovative solutions with Marcel Grace Infotech, experts in robust software development. Modern, client-focused, and keen on creating scalable solutions, we redefine digital transformations. Let&#39;s build your vision together!
           </p>
           <Button className="btn btn-primary">Learn More</Button>
         </div>
