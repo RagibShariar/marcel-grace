@@ -5,7 +5,7 @@ export default function Community() {
   return (
     <>
       <SectionHeader
-        title="Manage your entire community in a single system"
+        title="Craft modern, client-focused website content."
         subtitle="Who is Nextcent suitable for?"
       />
       <div>

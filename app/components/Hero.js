@@ -11,11 +11,11 @@ export default function Hero() {
         </div>
         <div className="w-full lg:max-w-[657px] text-center lg:text-left">
           <h1 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-semibold text-gray-900">
-            Lessons and insights{" "}
-            <span className="text-[#06387A]">from 8 years</span>
+            Transform ideas into reality with our {" "}
+            <span className="text-[#06387A]">modern tech expertise</span>
           </h1>
           <p className="py-4 md:py-6 text-[#717171] text-sm sm:text-base">
-            Where to grow your business as a photographer: site or social media?
+            We partner with startups and midsize companies to bring their ideas to life — from building MVPs to scaling successful digital products. Wherever your vision leads, Marcel Grace Infotech is here to support your journey with reliable, scalable, and expert-driven development solutions.
           </p>
 
           <Button>Register</Button>

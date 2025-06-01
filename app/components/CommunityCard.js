@@ -20,8 +20,7 @@ export default function CommunityCard() {
             Membership Organisations
           </h2>
           <p className="text-[#717171] text-xs sm:text-sm lg:text-[14px] font-normal leading-tight lg:leading-[20px]">
-            Our membership management software provides full automation of
-            membership renewals and payments
+            Create compelling content for Marcel Grace Infotech: confident, modern copy promoting innovation
           </p>
         </div>
       </div>
@@ -39,8 +38,7 @@ export default function CommunityCard() {
             National Associations
           </h2>
           <p className="text-[#717171] text-xs sm:text-sm lg:text-[14px] font-normal leading-tight lg:leading-[20px]">
-            Our membership management software provides full automation of
-            membership renewals and payments
+            Craft compelling content for Marcel Grace Infotech; modern, confident clarity for business clients.
           </p>
         </div>
       </div>
@@ -58,8 +56,7 @@ export default function CommunityCard() {
             Clubs And Groups
           </h2>
           <p className="text-[#717171] text-xs sm:text-sm lg:text-[14px] font-normal leading-tight lg:leading-[20px]">
-            Our membership management software provides full automation of
-            membership renewals and payments
+            Engage clients with smart content for Marcel Grace Infotech; showcase skill, trust, and tech expertise.
           </p>
         </div>
       </div>
